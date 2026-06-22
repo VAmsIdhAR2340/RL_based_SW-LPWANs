@@ -127,5 +127,6 @@ details (or standard MIT terms if not present).
 
 ---
 *Disclaimer: This project is based on the research paper "Energy-Efficient and
-QoS-Aware Data Transfer in SW-LPWAN Using Q-Learning".*
-**To know more about our paper, visit: https://ieeexplore.ieee.org/abstract/document/10214496**
+QoS-Aware Data Transfer in SW-LPWAN Using Q-Learning".
+To know more about our paper, visit: https://ieeexplore.ieee.org/abstract/document/10214496*
+
